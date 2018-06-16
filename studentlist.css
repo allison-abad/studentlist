@@ -1,0 +1,30 @@
+body{
+  background-image:url(https://media.npr.org/assets/img/2012/09/04/istock_000019012355small_wide-91a138a1102a808c2d5255f705914acae53bcdee-s900-c85.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+h1{
+  text-align: center;
+  margin-top: 10%;
+  margin-bottom: .5rem;
+  color:lightblue;
+  font-size: 5rem;
+  font-family: monospace;
+}
+
+.enter{
+  color:black;
+  font-weight: bold;
+  height:40px;
+	margin:0 auto;
+  margin-right:10px;
+  border-radius: 10px;
+  border:none;
+}
+
+input{
+  width:15%;
+  margin-left:16%;
+}
